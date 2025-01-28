@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var alphabets=parseInt(prompt("Enter the alphabets"))
+        switch(alphabets)
+        {
+            case 1:document.write("angittu poda poolu")
+            break;
+            case 2:document.write("baadu")
+            break;
+            case 3:document.write("chuumpi")
+            break;
+            case 4:document.write("Dumangoli")
+            break;
+            case 5:document.write("Etthara koothi")
+            break;
+            case 6:document.write("Fuck u")
+            break;
+            case 7:document.write("Gommala")
+            break;
+            case 8:document.write("Hangover")
+            break;
+            case 9:document.write("item thayvudiya")
+            break;
+            case 10:document.write("jollu kootu")
+            break;
+            case 12:document.write("Kena punda")
+            break;
+            case 13:document.write("Lavaday Kabaal")
+            break;
+            case 14:document.write("Mentel Punda")
+            break;
+            case 15:document.write("Noondi koothi")
+            break;
+            case 16:document.write("Olumari Punda")
+            break;
+            case 17:document.write(" patcha thayvudiya")
+            break;
+            case 18:document.write("quvater mavanay")
+            break;
+            case 19:document.write("Ravudi punda")
+            break;
+            case 20:document.write("Sappi punda")
+            break;
+            case 21:document.write("TVD payalay")
+            break;
+            case 22:document.write("Ummpi punda")
+            break;
+            case 23:document.write("Vayagara punda ")
+            break;
+            case 24:document.write("wotha ")
+            break;
+            case 25:document.write("xxx punda")
+            break;
+            case 26:document.write("zeepbra punda")
+            break;
+
+
+        }
+    </script>
+</body>
+</html>
